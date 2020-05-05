@@ -1,0 +1,10 @@
+j start
+j endling
+start:
+and $t0, $zero, $zero
+and $t0, $zero, $zero
+and $t0, $zero, $zero
+and $t0, $zero, $zero
+j start
+endling:
+eret
